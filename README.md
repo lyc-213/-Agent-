@@ -1,4 +1,5 @@
-<img width="2559" height="1350" alt="image" src="https://github.com/user-attachments/assets/2ddf833e-3733-4a94-8216-c582c6649405" /><img width="1420" height="2574" alt="image" src="https://github.com/user-attachments/assets/59a40ad2-bdd9-4d70-9bd4-988d1f2b8c66" />我构建了一个面向电商运营团队的 AI 增长分析 Agent 系统，专门解决中小商家‘数据很多但无法形成有效运营决策’的问题。传统运营通常需要人工分别查看交易、流量、退款、客服、内容投放等多个后台，再依赖经验判断问题来源，导致分析滞后、决策效率低、策略不可复用。
+<img width="2559" height="1350" alt="image" src="https://github.com/user-attachments/assets/2ddf833e-3733-4a94-8216-c582c6649405" /><img width="1420" height="2574" alt="image" src="https://github.com/user-attachments/assets/59a40ad2-bdd9-4d70-9bd4-988d1f2b8c66" />
+我构建了一个面向电商运营团队的 AI 增长分析 Agent 系统，专门解决中小商家‘数据很多但无法形成有效运营决策’的问题。传统运营通常需要人工分别查看交易、流量、退款、客服、内容投放等多个后台，再依赖经验判断问题来源，导致分析滞后、决策效率低、策略不可复用。
 该系统的核心痛点是： 1）运营数据分散，无法形成统一因果分析； 2）异常发现依赖人工经验； 3）策略执行与复盘割裂，无法形成闭环优化。
 系统采用多 Agent 协作架构，核心逻辑流如下：
 数据采集 Agent：自动抓取店铺交易、流量、访客、退款、客服、短视频内容等数据，并进行结构化处理；
